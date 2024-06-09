@@ -1,7 +1,8 @@
 import { TabDispatchAction } from '@ag108/ct-utils/types/dispatch';
+
 import { EmoteIndexState, PackageLinks } from '@ag108/ct-utils';
 
-const PKG_NAME = 'symbols';
+const PKG_NAME = 'symbol & emoticon';
 
 export const Faces = ({setTab}: {setTab: TabDispatchAction}) => {	
 		return <PackageLinks modules={['smiley', 'sad', 'angry', 'funny', 'affectionate', 'sick', 'other']} pkgName={PKG_NAME} libName='faces' backTab={EmoteIndexState} setTab={setTab} />;
