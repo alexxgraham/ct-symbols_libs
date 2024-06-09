@@ -5,7 +5,3 @@
 ### Major Changes
 
 - 952f480: first public release
-
-### Patch Changes
-
-- c8cd572: export libraries from index.tsx

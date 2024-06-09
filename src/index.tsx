@@ -33,3 +33,5 @@ export const IndexEmote = ({setTab}: {setTab: TabDispatchAction}) => {
 		</article>
 	);
 }
+
+export { Faces, FoodAndBev, Nature, Objects, Hearts, Flags, MoreText } from '~/libs'
