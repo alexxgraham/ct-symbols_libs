@@ -1,5 +1,11 @@
 # @ag108/ct-symbols_libs
 
+## 1.0.6
+
+### Patch Changes
+
+- 9536285: fixed text->color classes for lts of ct-utils styles
+
 ## 1.0.5
 
 ### Patch Changes
