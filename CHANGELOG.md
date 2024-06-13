@@ -1,5 +1,11 @@
 # @ag108/ct-symbols_libs
 
+## 1.0.3
+
+### Patch Changes
+
+- cd35391: added [symbols] pack ct-utils stylesheets
+
 ## 1.0.2
 
 ### Patch Changes
