@@ -1,5 +1,11 @@
 # @ag108/ct-symbols_libs
 
+## 1.0.5
+
+### Patch Changes
+
+- eba9cee: update to lts ct-utils
+
 ## 1.0.4
 
 ### Patch Changes
