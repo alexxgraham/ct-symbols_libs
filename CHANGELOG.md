@@ -1,5 +1,11 @@
 # @ag108/ct-symbols_libs
 
+## 1.0.4
+
+### Patch Changes
+
+- 65f48e6: fixed conflicting tailwind classes with IndexEmote classes for lts of ct-util classes
+
 ## 1.0.3
 
 ### Patch Changes
